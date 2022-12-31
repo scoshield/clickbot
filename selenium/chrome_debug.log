@@ -1,0 +1,16 @@
+[6032:10184:1014/015113.100:INFO:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2", source: chrome://new-tab-page/ (0)
+[6032:9504:1014/015115.825:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[6032:9504:1014/015115.825:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[6032:9504:1014/015115.826:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[6032:10184:1014/015115.834:ERROR:device_event_log_impl.cc(214)] [01:51:15.834] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+[6032:9504:1014/015115.851:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+[6032:10184:1014/015125.660:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://nairobi24.co.ke/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 (2)
+[6032:10184:1014/015125.698:INFO:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://nairobi24.co.ke/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0", source: https://nairobi24.co.ke/blog/politics/this-stadium-was-built-using-kes-110-million/ (0)
+[6032:10184:1014/015125.699:INFO:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2", source: https://nairobi24.co.ke/blog/politics/this-stadium-was-built-using-kes-110-million/ (0)
+[6032:10184:1014/015126.031:INFO:CONSOLE(453)] "Sha1= nairobi24.co.ke/", source: https://nairobi24.co.ke/wp-content/plugins/wp-stats-manager/js/wsm_new.js (453)
+[6032:10184:1014/015126.032:INFO:CONSOLE(317)] "Ready", source: https://nairobi24.co.ke/wp-content/plugins/wp-stats-manager/js/wsm_new.js (317)
+[6032:10184:1014/015126.217:INFO:CONSOLE(7288)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (7288)
+[6032:10184:1014/015152.229:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://nairobi24.co.ke/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 (2)
+[6032:10184:1014/015152.557:INFO:CONSOLE(453)] "Sha1= nairobi24.co.ke/", source: https://nairobi24.co.ke/wp-content/plugins/wp-stats-manager/js/wsm_new.js (453)
+[6032:10184:1014/015152.559:INFO:CONSOLE(317)] "Ready", source: https://nairobi24.co.ke/wp-content/plugins/wp-stats-manager/js/wsm_new.js (317)
+[6032:10184:1014/015223.433:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
